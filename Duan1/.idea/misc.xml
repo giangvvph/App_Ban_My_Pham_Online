@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_java/Duan1/Duan1/app/src/main/res/layout/activity_lien_he_actyvity.xml" value="0.1" />
+        <entry key="..\:/Android_java/Duan1/Duan1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android_java/Duan1/Duan1/app/src/main/res/layout/activity_manhinhdangnhap.xml" value="0.1" />
+        <entry key="..\:/Android_java/Duan1/Duan1/app/src/main/res/layout/activity_son_acityvity.xml" value="0.1" />
+        <entry key="..\:/Android_java/Duan1/Duan1/app/src/main/res/layout/activity_sua_rua_mat.xml" value="0.1" />
+        <entry key="..\:/Android_java/Duan1/Duan1/app/src/main/res/layout/activity_thong_tin.xml" value="0.1" />
+        <entry key="..\:/Android_java/Duan1/Duan1/app/src/main/res/layout/activity_thong_tin_khachhang.xml" value="0.1" />
+        <entry key="..\:/Android_java/Duan1/Duan1/app/src/main/res/layout/dong_giohang.xml" value="0.1" />
+        <entry key="..\:/Android_java/Duan1/Duan1/app/src/main/res/layout/dong_lv.xml" value="0.1" />
+        <entry key="..\:/Android_java/Duan1/Duan1/app/src/main/res/layout/dong_sanpham.xml" value="0.1" />
+        <entry key="..\:/Android_java/Duan1/Duan1/app/src/main/res/layout/dong_son.xml" value="0.1" />
+        <entry key="..\:/Android_java/Duan1/Duan1/app/src/main/res/layout/dong_suaruamat.xml" value="0.1" />
+        <entry key="..\:/Android_java/Duan1/Duan1/app/src/main/res/layout/layout_test_giaodien.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
